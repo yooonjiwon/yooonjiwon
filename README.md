@@ -2,7 +2,8 @@
 Hi, I am Jiwon. Recently started a master's in biostatistics. I have an interest in the application of artificial intelligence in the medical field. Previously involved in the retrospective study analyzing data of allergic diseases.
 
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwon-yoon-0992361b5/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoon.jiwon.g@gmail.com)](mailto:yoon.jiwon.g@gmail.com)
 <!--
 **yooonjiwon/yooonjiwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
