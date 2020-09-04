@@ -7,7 +7,7 @@ Hi, I am Jiwon. Recently started a master's in biostatistics. I have an interest
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoon.jiwon.g@gmail.com)](mailto:yoon.jiwon.g@gmail.com)
 
 ### Github stats
-[![Jiwon's github stats](https://github-readme-stats.vercel.app/api?username=yooonjiwon)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiwon's github stats](https://github-readme-stats.vercel.app/api?username=yooonjiwon&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yooonjiwon/yooonjiwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
