@@ -4,7 +4,7 @@ Hi, I am Jiwon. Recently started a master's in biostatistics. I have an interest
 
 ### Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwon-yoon-0992361b5/)](https://www.linkedin.com/in/jiwon-yoon-0992361b5/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoon.jiwon.g@gmail.com)](mailto:yoon.jiwon.g@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/notion-white?style=flat-square&logo=notion&logoColor=black&link=mailto:yoon.jiwon.g@gmail.com)](mailto:yoon.jiwon.g@gmail.com)
 [![Notion Badge](https://https://img.shields.io/badge/%20-notion-white&link=https://www.notion.so/c80299b18b934dfbabefab1227105370)](https://www.notion.so/c80299b18b934dfbabefab1227105370)
 
 ### Github stats
