@@ -1,5 +1,5 @@
 ### Jiwon Yoon
-Hi, I am Jiwon. Recently started a master's in biostatistics. I have an interest in the application of artificial intelligence in the medical field. Previously involved in the retrospective study analyzing data of allergic diseases.
+Hi, I am Jiwon. I have an interest in the application of artificial intelligence in the medical field. Previously involved in the retrospective study analyzing data of allergic diseases.
 
 
 ### Get in touch
