@@ -5,7 +5,7 @@ Hi, I am Jiwon. I have an interest in the application of artificial intelligence
 ### Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwon-yoon-0992361b5/)](https://www.linkedin.com/in/jiwon-yoon-0992361b5/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoon.jiwon.g@gmail.com)](mailto:yoon.jiwon.g@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://jwon-yoon.tistory.com/)](https://jwon-yoon.tistory.com/)
+[![Blog Badge](https://img.shields.io/badge/Notion-white?style=flat-square&logoColor=black&link=https://jwon-yoon.tistory.com/)](https://jwon-yoon.tistory.com/)
 <!-- [![Blog Badge](https://img.shields.io/badge/Blog-T-lightgrey&logo=Tistory&logoColor=black&link=https://jwon-yoon.tistory.com/)](https://jwon-yoon.tistory.com/) -->
 
 
