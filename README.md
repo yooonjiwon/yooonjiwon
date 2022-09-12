@@ -1,5 +1,5 @@
 ### Jiwon Yoon
-Hi, I am Jiwon. I have an interest in the application of statistics and artificial intelligence in the medical field. Previously involved in the retrospective study analyzing electronic medical records, and medical image. My work can be found below google scholar link, and also in LinkedIn.
+Hi, I am Jiwon. I have an interest in the application of statistics and artificial intelligence into the healthcare. Previously involved in the retrospective study analyzing electronic medical records, and medical image. My work can be found below google scholar link, and also in LinkedIn.
 
 
 ### Get in touch
